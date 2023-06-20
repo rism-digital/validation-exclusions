@@ -1,4 +1,9 @@
 exclude:
+  "260":
+    tags:
+      "c":
+        id_prefix: "850"
+        from_file_list: 260_c_exclude_others
   "650":
     tags:
       "0":
