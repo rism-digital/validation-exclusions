@@ -4,14 +4,18 @@ exclude:
       "c":
         id_prefix: "850"
         from_file_list: 260_c_exclude_others
-  "650":
+  "300":
     tags:
-      "0":
+      "a":
         id_prefix: "850"
-        #from_file_list: 650_0_exclude
+        id_prefix: "600"
   "588":
     tags:
       "a":
         and_rules: 
           id_prefix: "99"
           creation_date: "2016-11-11"
+  "650":
+    tags:
+      "0":
+        id_prefix: "850"
