@@ -2,20 +2,20 @@ exclude:
   "260":
     tags:
       "c":
-        id_prefix: "850"
-        from_file_list: 260_c_exclude_others
+        - id_prefix: "850"
+        - from_file_list: 260_c_exclude_others
   "300":
     tags:
       "a":
-        id_prefix: "850"
-        id_prefix: "600"
+        - id_prefix: "850"
+        - id_prefix: "600"
   "588":
     tags:
       "a":
-        and_rules: 
-          id_prefix: "99"
-          creation_date: "2016-11-11"
+        - and_rules: 
+          - id_prefix: "99"
+          - creation_date: "2016-11-11"
   "650":
     tags:
       "0":
-        id_prefix: "850"
+        - id_prefix: "850"
