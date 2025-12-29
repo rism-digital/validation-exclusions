@@ -9,6 +9,7 @@ exclude:
       "a":
         - id_prefix: "850"
         - id_prefix: "600"
+        - from_file_list: 300_a_ch
   "588":
     tags:
       "a":
